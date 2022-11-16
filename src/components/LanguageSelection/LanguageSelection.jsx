@@ -1,5 +1,5 @@
 import React from 'react';
-const LanguageSelection = (props) => {
+const LanguageSelectionComponent = (props) => {
 
 
     function formatDate(locale) {
@@ -39,4 +39,4 @@ const LanguageSelection = (props) => {
     );
 };
 
-export default LanguageSelection;
+export default LanguageSelectionComponent;
